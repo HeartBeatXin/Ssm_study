@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d481eca-2d33-4514-8038-179b89ad6e27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZyY607sPZUanIJMSJTsW8U94lX" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../collects" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.testFindALl">
+    <configuration name="MybatisTest.testFindALl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03_eesy__02dynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuxin" />
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindALl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindByCondiTion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03_eesy__02dynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuxin" />
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindByCondiTion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.testFindInIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day03_eesy__02dynamicSQL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wuxin" />
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.MybatisTest" />
+      <option name="METHOD_NAME" value="testFindInIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.testFindALl" />
+        <item itemvalue="JUnit.MybatisTest.testFindInIds" />
+        <item itemvalue="JUnit.MybatisTest.testFindByCondiTion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d481eca-2d33-4514-8038-179b89ad6e27" name="Default Changelist" comment="" />
+      <created>1585812622383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585812622383</updated>
+      <workItem from="1585812637865" duration="4108000" />
+      <workItem from="1585869734606" duration="120000" />
+      <workItem from="1585870570905" duration="2703000" />
+      <workItem from="1585875470788" duration="760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1585871227931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1585871227931" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585812815271">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585812815271" />
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1585873323094">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585873323094" />
+    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1585873323094">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585873323094" />
+    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1585873323094">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585873323094" />
+    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1585873323094">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585873323094" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585813511180">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585813511180" />
+  </component>
+</project>

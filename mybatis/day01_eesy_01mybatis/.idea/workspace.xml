@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cbebb0f-3768-4efb-b27e-0511c55a183c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="day01_eesy_01mybatis" />
+  </component>
+  <component name="ProjectId" id="1ZX25jonipLUyuVyFrcgaFhHu2C" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.test.MybatisTest" />
+      <module name="day01_eesy_01mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cbebb0f-3768-4efb-b27e-0511c55a183c" name="Default Changelist" comment="" />
+      <created>1584970936916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584970936916</updated>
+      <workItem from="1584970939669" duration="524000" />
+      <workItem from="1584974079384" duration="992000" />
+      <workItem from="1585224558727" duration="761000" />
+      <workItem from="1585311822965" duration="127000" />
+      <workItem from="1585313600084" duration="22000" />
+      <workItem from="1585356243727" duration="764000" />
+      <workItem from="1585357242173" duration="598000" />
+      <workItem from="1585357984330" duration="158000" />
+      <workItem from="1585358305646" duration="200000" />
+      <workItem from="1585364294794" duration="510000" />
+      <workItem from="1585365886336" duration="339000" />
+      <workItem from="1585366335474" duration="619000" />
+      <workItem from="1585367269184" duration="118000" />
+      <workItem from="1585367707548" duration="593000" />
+      <workItem from="1585368570993" duration="307000" />
+      <workItem from="1585369962753" duration="603000" />
+      <workItem from="1585370682858" duration="472000" />
+      <workItem from="1585371197999" duration="349000" />
+      <workItem from="1585371600311" duration="413000" />
+      <workItem from="1585372087232" duration="315000" />
+      <workItem from="1585372479334" duration="287000" />
+      <workItem from="1585375060349" duration="579000" />
+      <workItem from="1585399335889" duration="5854000" />
+      <workItem from="1585445730035" duration="1846000" />
+      <workItem from="1585450713447" duration="1459000" />
+      <workItem from="1585461327950" duration="3975000" />
+      <workItem from="1585745555988" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Notifications" timestamp="1585371111611">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1585371111611" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1585357872467">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585357872467" />
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1585405284056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585405284056" />
+    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1585405284056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585405284056" />
+    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1585405284056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585405284056" />
+    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1585405284056">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585405284056" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1585403886910">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585403886910" />
+    <state x="359" y="230" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585357681906">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="359" y="230" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1585357681906" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1585402708976">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585402708976" />
+  </component>
+</project>

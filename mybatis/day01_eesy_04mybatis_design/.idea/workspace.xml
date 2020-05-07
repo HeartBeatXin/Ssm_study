@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1966e8c6-db19-4034-9075-ee63f124f27b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnIS4akMm276UyBURCuYJkXQVj" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../downloads/课程资料/主流框架/主流框架/31.会员版(2.0)-就业课(2.0)-Mybatis/56.mybatis/mybatis/mybatis_day01/代码/mybati第一天源码/day01_eesy_04mybatis_design" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DailyDocuments\dailydata\day01_eesy_04mybatis_design\src\main\java\com\wuxin\mybatis\utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wuxin.mybatis.sqlsession" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.test.MybatisTest" />
+      <module name="day01_eesy_04mybatis_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1966e8c6-db19-4034-9075-ee63f124f27b" name="Default Changelist" comment="" />
+      <created>1585468428026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585468428026</updated>
+      <workItem from="1585468433867" duration="2914000" />
+      <workItem from="1585472672505" duration="23000" />
+      <workItem from="1585472836896" duration="10290000" />
+      <workItem from="1585485197092" duration="4565000" />
+      <workItem from="1585533633068" duration="4867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#Notifications" timestamp="1585468481370">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1585468481370" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585538161040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585538161040" />
+    <state x="488" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1585478872991">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1585478872991" />
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585470230966">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="159" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1585470230966" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585470737711">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1585470737711" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1585538223878">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585538223878" />
+    <state width="1323" height="-12" key="GridCell.Tab.0.bottom" timestamp="1585540323291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="-12" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585540323291" />
+    <state width="1323" height="-12" key="GridCell.Tab.0.center" timestamp="1585540323291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="-12" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585540323291" />
+    <state width="1323" height="-12" key="GridCell.Tab.0.left" timestamp="1585540323291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="-12" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585540323291" />
+    <state width="1323" height="-12" key="GridCell.Tab.0.right" timestamp="1585540323291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="-12" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585540323291" />
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom" timestamp="1585489794042">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585489794042" />
+    <state width="1323" height="205" key="GridCell.Tab.1.center" timestamp="1585489794041">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1585489794041" />
+    <state width="1323" height="205" key="GridCell.Tab.1.left" timestamp="1585489794040">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1585489794040" />
+    <state width="1323" height="205" key="GridCell.Tab.1.right" timestamp="1585489794041">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1585489794041" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585538820126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585538820126" />
+    <state x="0" y="0" width="667" height="768" key="find.popup" timestamp="1585480619132">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="667" height="768" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1585480619132" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1585489186903">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1585489186903" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585479188965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1585479188965" />
+  </component>
+</project>
