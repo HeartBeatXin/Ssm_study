@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e53d2e2-055a-4da5-b872-50bcb63895a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aepbnDfUCbVyGqjZBroD5YU1R5" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuxin.ui.Client" />
+      <module name="day01_spring_02factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuxin.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e53d2e2-055a-4da5-b872-50bcb63895a4" name="Default Changelist" comment="" />
+      <created>1587105987559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587105987559</updated>
+      <workItem from="1587105990027" duration="6829000" />
+      <workItem from="1587171022959" duration="16000" />
+      <workItem from="1587175707034" duration="1271000" />
+      <workItem from="1587192406445" duration="66000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1587107339942">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1587107339942" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587107049247">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1587107049247" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1587116323721">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587116323721" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1587116323721">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587116323721" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1587116323721">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587116323721" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1587116323721">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587116323721" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1587110466930">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1587110466930" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587109781240">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587109781240" />
+  </component>
+</project>
